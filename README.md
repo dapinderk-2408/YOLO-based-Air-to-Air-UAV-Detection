@@ -10,3 +10,15 @@ The final published version of this article is available in the journal:
 “Analysis of Vision-based Air-to-Air UAV Detection using YOLO-based Architectures”
 
 🔗 DOI: https://doi.org/10.1016/j.robot.2025.105074
+
+# Citation
+
+If you use this work, please cite:
+
+@article{uav_detection2025,
+  title={Analysis of Vision-based Air-to-Air UAV Detection using YOLO-based Architectures},
+  author={[Authors]},
+  journal={Robotics and Autonomous Systems},
+  year={2025},
+  doi={10.1016/j.robot.2025.105074}
+}
