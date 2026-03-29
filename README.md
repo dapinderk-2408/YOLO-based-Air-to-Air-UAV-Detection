@@ -1,7 +1,7 @@
 # Air-to-Air UAV Detection using YOLO Architectures
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.robot.2025.105074-blue)](https://doi.org/10.1016/j.robot.2025.105074)
-[![arXiv](https://img.shields.io/badge/arXiv-2601.08319-b31b1b.svg)](https://arxiv.org/abs/2601.08319)
+
 ![GitHub stars](https://img.shields.io/github/stars/your-username/air-to-air-uav-detection-yolo?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/air-to-air-uav-detection-yolo?style=social)
 ![License](https://img.shields.io/github/license/your-username/air-to-air-uav-detection-yolo)
